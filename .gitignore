@@ -1,0 +1,16 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# PowerShell
+*.ps1xml
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
