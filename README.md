@@ -15,7 +15,7 @@ Hands-on IAM lab simulating enterprise identity architecture using Active Direct
 - Automate identity tasks with PowerShell
 
 ## Tech Stack
-- Windows Server 2022 (AD DS, DNS)
+- Windows Server 2019 (AD DS, DNS)
 - Microsoft Entra ID
 - Okta
 - Slack / Google Workspace
